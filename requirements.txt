@@ -4,3 +4,4 @@ streamlit
 sklearn-learn
 xgboost
 openpyxl
+pandas
