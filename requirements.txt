@@ -1,6 +1,6 @@
-io
-pathlib
 matplotlib
 seaborn
 streamlit
-sklearn
+sklearn-learn
+xgboost
+openpyxl
